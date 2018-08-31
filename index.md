@@ -3,7 +3,7 @@
 [Contract](Contract/contract.md)
 [Lab 1](Lab1/lab1.md)
 
-##Team Members:
+## Team Members:
 * Asena Ulug 
 * Cynthia Zelga
 * John Chukwunonso Nwankwo
