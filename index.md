@@ -1,3 +1,3 @@
 # Team 19
 
-[Contract]  (contract.md)
+[Contract]  (https://ece3400team19.github.io/contract)
