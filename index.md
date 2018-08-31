@@ -1,6 +1,6 @@
 # Team 19
 
-[Contract](Contract/contract.md)
+[Contract](Contract/contract.md) || 
 [Lab 1](Lab1/lab1.md)
 
 ## Team Members:
