@@ -1,5 +1,5 @@
 # Team 19
 
-[Contract]  (./contract.md)
+[Contract]  (Contract/contract.md)
 
-[https://www.google.com/maps]
+<https://www.google.com/maps>
