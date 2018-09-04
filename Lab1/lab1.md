@@ -1,6 +1,6 @@
 # Lab 1
 
-[Home](/index.md)
+[Home](https://ece3400team19.github.io/)
 
 
 ## Description

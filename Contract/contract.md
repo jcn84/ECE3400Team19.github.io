@@ -1,6 +1,6 @@
 # Contract
 
-[Home](/index.md)
+[Home](https://ece3400team19.github.io/)
 
 
 [Team Contract](/Contract/ECE%203400%20Team%2019%20Contract_V1.pdf)
