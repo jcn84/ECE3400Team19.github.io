@@ -1,6 +1,6 @@
 # Lab 1
 
-[Home](~/index.md)
+[Home](/index.md)
 
 
 ## Description
