@@ -43,7 +43,7 @@ void loop() {
 
 Video of LED blinking.
 
-!["arduino!"](arduino.jpg)
+!["arduino!"](arduino.JPG)
 
 
 ## Part 2 - Using the analog output
