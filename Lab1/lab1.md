@@ -44,6 +44,9 @@ void loop() {
 Video of LED blinking.
 
 ![](arduino.jpg)
+<img class="img-fluid img-centered" src="arduino.jpg" alt="">
+
+pls
 
 ## Part 2 - Using the analog output
 
