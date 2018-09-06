@@ -10,7 +10,7 @@ We brainstormed and constructed a simple functional Arduino program using multip
 We then put together our robot and had it perform a [simple autonomous task](#robot-demo).
 
 ## Materials
-:sparkles: :sparkles: :sparkles:
+
 * 1 Arduino Uno (in the box)
 * 1 USB A/B cable (in the box)
 * 1 Continuous rotation servos
@@ -19,7 +19,7 @@ We then put together our robot and had it perform a [simple autonomous task](#ro
 * 1 Potentiometer
 * Several resistors (kΩ range)
 * 1 Solderless breadboard
-:sparkles: :sparkles: :sparkles:
+
 ## Part 1 - Modifying the Blink sketch
 
 ```
@@ -37,8 +37,13 @@ void loop() {
   delay(1000);                       // wait for a second
 }
 ```
+<video width="320" height="240" autoplay>
+  <source src="blinking.MOV" type="video/MOV">
+Your browser does not support the video tag.
+</video>
 
 ## Part 2 - Using the analog output
+
 
 ## Part 3 - Using the Parallax servos
 
