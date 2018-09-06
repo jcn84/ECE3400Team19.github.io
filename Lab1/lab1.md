@@ -39,9 +39,10 @@ void loop() {
 ```
 
 Video of LED blinking.
+
+
 <video controls="controls" width="800" height="600" name="Blinking" src="blinking.MOV>  
 </video>
-
 
 
 !["arduino!"](arduino.JPG)
