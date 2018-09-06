@@ -41,8 +41,6 @@ void loop() {
 Video of LED blinking.
 
 
-<video controls="controls" width="800" height="600" name="Blinking" src="blinking.MOV>  
-</video>
 
 <video width="800" height="600" controls>
   <source src="blinking.MOV" type="video/mp4">
