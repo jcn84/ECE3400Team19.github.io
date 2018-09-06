@@ -40,7 +40,10 @@ void loop() {
 
 <video controls="controls" width="800" height="600"
        name="Blinking" src="blinking.mov></video>
+
 Video of LED blinking.
+
+![](arduino.jpg?raw=true)
 
 ## Part 2 - Using the analog output
 
