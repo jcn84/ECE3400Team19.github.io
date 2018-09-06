@@ -37,10 +37,10 @@ void loop() {
   delay(1000);                       // wait for a second
 }
 ```
-<video width="320" height="240" autoplay>
-  <source src="blinking.MOV" type="video/MOV">
-Your browser does not support the video tag.
-</video>
+
+<video controls="controls" width="800" height="600"
+       name="Blinking" src="blinking.mov></video>
+Video of LED blinking.
 
 ## Part 2 - Using the analog output
 
